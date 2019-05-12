@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a5faf450-7640-4748-bb13-b4485b787b29/deploy-status)](https://app.netlify.com/sites/gifted-thompson-49a0c5/deploys)
+
 # 👨🏼‍💻 Khriztianmoreno Elevator Pitch Web Site 
 
 A Gatsby theme presenting a person
