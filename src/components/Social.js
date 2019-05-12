@@ -4,6 +4,7 @@ import { StaticQuery, graphql } from 'gatsby';
 import GithubIcon from 'react-feather/dist/icons/github';
 import TwitterIcon from 'react-feather/dist/icons/twitter';
 import MailIcon from 'react-feather/dist/icons/mail';
+import CodeIcon from 'react-feather/dist/icons/code';
 
 import style from '../styles/social';
 
@@ -38,6 +39,9 @@ const Social = () => (
           </a>
           <a href={twitter}>
             <TwitterIcon />
+          </a>
+          <a href={mailto}>
+            <CodeIcon />
           </a>
           <a href={mailto}>
             <MailIcon />

@@ -5,15 +5,8 @@ import style from '../styles/screen';
 
 const Credist = () => (
   <div className="credits">
-    Built with {` `}
-    <a
-      href="https://github.com/greglobinski/gatsby-themes/tree/master/packages/gatsby-theme-elevator-pitch"
-      target="_blank"
-      rel="noopener noreferrer"
-    >
-      Elevator Pitch
-    </a>{' '}
-    a <a href="https://gatsbyjs.org">Gatsby.js</a> theme.
+    Built with the <span role="img" aria-label="power">⚡️</span>of <a href="https://gatsbyjs.org" target="_blank" rel="noopener noreferrer">Gatsby.js</a>
+    {` `}and deploy <a href="https://www.netlify.com/" target="_blank" rel="noopener noreferrer">Netlify</a>.
   </div>
 );
 

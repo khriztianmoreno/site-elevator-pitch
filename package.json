@@ -1,10 +1,12 @@
 {
   "name": "khriztianmoreno-elevator-pitch-site",
-  "version": "0.0.36",
+  "version": "1.0.0",
   "description": "A Gatsby theme presenting a person",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
+    "start": "npm run clean && npm run develop",
+    "clean": "rm -rf .cache && rm -rf ./public",
     "develop": "gatsby develop",
     "build": "gatsby build",
     "serve": "gatsby serve"

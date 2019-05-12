@@ -1,13 +1,13 @@
 import React from 'react';
-import 'typeface-open-sans';
 import { Global, css } from '@emotion/core';
 
+import 'typeface-open-sans';
+
 const COLORS = [
-  '#A60D61',
-  '#022340',
-  '#06ADBF',
-  '#F2C36B',
-  '#F26D3D',
+  '#673ab7',
+  '#03a9f4',
+  '#3F51B5',
+  '#5196A6',
 ]
 
 const StyleVars = () => (
@@ -18,11 +18,11 @@ const StyleVars = () => (
         --backgroundColor: ${COLORS[Math.floor(Math.random() * COLORS.length)]};
         --lastBackgroundColor: #333;
         --transitionBackgroundColor: #ddd;
-        --textColor: #FFFFFF;
+        --textColor: #F2F0EB;
         --brightTextColor: #aaa;
         --fontFamily: 'Open Sans', Arial, sans-serif;
-        --linkColor: #c00;
-        --hoverLinkColor: #a00;
+        --linkColor: #CDDC39;
+        --hoverLinkColor: #9E9E9E;
         --brightLinkColor: #ddd;
       }
     `}

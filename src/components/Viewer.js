@@ -106,7 +106,7 @@ const Viewer = () => (
           name: { eq: "avatar" }
         ) {
           childImageSharp {
-            fixed(width: 132, height: 132) {
+            fixed(width: 132, height: 132, quality: 100) {
               ...GatsbyImageSharpFixed
             }
           }
