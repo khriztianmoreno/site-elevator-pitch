@@ -20,7 +20,7 @@
     "eslint-plugin-flowtype": "3.13.0",
     "eslint-plugin-import": "2.18.2",
     "eslint-plugin-jest": "22.17.0",
-    "eslint-plugin-jsx-a11y": "6.2.1",
+    "eslint-plugin-jsx-a11y": "6.2.3",
     "eslint-plugin-react": "7.13.0",
     "gatsby": "2.4.3",
     "jest": "24.8.0",
