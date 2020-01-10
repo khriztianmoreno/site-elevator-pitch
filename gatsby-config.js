@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'khriztianmoreno | FullStack Javascript Developer 👨🏼‍💻👨🏼‍🏫| Producer @commitfm🎙📻',
     url: 'https://khriztianmoreno.dev',
-    image: 'preview.png',
+    image: 'https://khriztianmoreno.com/img/profile.jpg',
     language: 'en',
     description: 'FullStack Javascript Developer and Community builder | Producer @commitfm | Co-Organize of @MedellinJS @avanet.',
     socialLinks: {
