@@ -18,6 +18,7 @@ const Seo = props => {
       <meta property="og:description" content={description} />
       <meta property="og:image" content={image} />
       <meta property="og:type" content="website" />
+      <meta property="og:logo" content={image} size="1280x950">
 
       {/* Twitter Card tags */}
       <meta name="twitter:card" content="summary" />
