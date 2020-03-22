@@ -28,7 +28,7 @@
     "prettier": "1.19.1",
     "react": "16.13.1",
     "react-dom": "16.13.1",
-    "yaml-loader": "0.5.0"
+    "yaml-loader": "0.6.0"
   },
   "peerDependencies": {
     "gatsby": "^2.1.4",
