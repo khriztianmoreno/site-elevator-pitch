@@ -12,8 +12,8 @@
     "serve": "gatsby serve"
   },
   "devDependencies": {
-    "@babel/preset-flow": "7.8.3",
-    "babel-eslint": "10.0.3",
+    "@babel/preset-flow": "7.9.0",
+    "babel-eslint": "10.1.0",
     "dotenv": "8.2.0",
     "eslint": "6.8.0",
     "eslint-config-react-app": "5.2.0",
