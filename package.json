@@ -25,7 +25,7 @@
     "gatsby": "2.20.3",
     "jest": "25.1.0",
     "js-yaml": "3.13.1",
-    "prettier": "2.0.1",
+    "prettier": "2.0.2",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "yaml-loader": "0.6.0"
