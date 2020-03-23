@@ -22,7 +22,7 @@
     "eslint-plugin-jest": "23.8.2",
     "eslint-plugin-jsx-a11y": "6.2.3",
     "eslint-plugin-react": "7.19.0",
-    "gatsby": "2.20.2",
+    "gatsby": "2.20.3",
     "jest": "25.1.0",
     "js-yaml": "3.13.1",
     "prettier": "2.0.1",
