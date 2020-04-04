@@ -11,6 +11,7 @@ module.exports = {
       github: 'https://github.com/khriztianmoreno',
       twitter: 'https://twitter.com/khriztianmoreno',
       facebook: 'https://facebook.com/khriztianmoreno',
+      youtube: 'https://youtube.com/khriztianmoreno',
       web: 'https://khriztianmoreno.com',
       mailto: 'mailto:khriztianmoreno@gmail.com',
     },
