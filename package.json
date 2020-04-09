@@ -54,7 +54,7 @@
     "prop-types": "^15.7.1",
     "react-emotion": "^10.0.0",
     "react-feather": "^2.0.0",
-    "react-helmet": "^5.2.0",
+    "react-helmet": "^6.0.0",
     "typeface-open-sans": "^0.0.75"
   }
 }
