@@ -21,7 +21,7 @@
     "eslint-plugin-import": "2.20.2",
     "eslint-plugin-jest": "23.13.2",
     "eslint-plugin-jsx-a11y": "6.2.3",
-    "eslint-plugin-react": "7.19.0",
+    "eslint-plugin-react": "7.20.0",
     "gatsby": "2.22.11",
     "jest": "26.0.1",
     "js-yaml": "3.13.1",
