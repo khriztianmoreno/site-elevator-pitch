@@ -55,6 +55,6 @@
     "react-emotion": "^10.0.0",
     "react-feather": "^2.0.0",
     "react-helmet": "^6.0.0",
-    "typeface-open-sans": "^0.0.75"
+    "typeface-open-sans": "^1.0.0"
   }
 }
