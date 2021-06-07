@@ -30,13 +30,6 @@ module.exports = {
         path: 'content/elevator-pitch/screens',
       },
     },
-    // {
-    //   resolve: 'gatsby-source-filesystem',
-    //   options: {
-    //     name: 'elevator-pitch-demo-screens',
-    //     path: `${__dirname}/content/screens`,
-    //   },
-    // },
     {
       resolve: 'gatsby-source-filesystem',
       options: {
@@ -44,13 +37,6 @@ module.exports = {
         path: 'content/elevator-pitch/images',
       },
     },
-    // {
-    //   resolve: 'gatsby-source-filesystem',
-    //   options: {
-    //     name: 'elevator-pitch-demo-images',
-    //     path: `${__dirname}/content/images`,
-    //   },
-    // },
     'gatsby-plugin-sharp',
     'gatsby-transformer-sharp',
     'gatsby-transformer-remark',
@@ -58,9 +44,10 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-google-analytics',
       options: {
-        trackingId: process.env.GOOGLE_ANALYTICS_ID,
+        trackingId: process.env.GOOGLE_ANALYTICS_ID || 'UA-131757507-1',
       },
     },
+    'gatsby-plugin-postcss',
     'gatsby-plugin-emotion',
     {
       resolve: 'gatsby-plugin-compile-es6-packages',

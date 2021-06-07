@@ -1,5 +1,4 @@
-
-import { css } from '@emotion/core';
+import { css } from '@emotion/react';
 
 const screens = css`
   .info {
